@@ -3,7 +3,7 @@
 
 This is the template repository that you should use to upload your reports for each TP. Please include the names of the members of the team here below as a list:
 
-- Member 1 : 
+- Member 1 : Ndong Paul
 - Member 2 :
 - Member 3 :
 
